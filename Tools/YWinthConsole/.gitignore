@@ -1,0 +1,5 @@
+bin/
+obj/
+
+!*/
+!bin/Debug/YWinthConsole.exe
